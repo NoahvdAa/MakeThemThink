@@ -1,0 +1,8 @@
+name: MakeThemThink
+version: '${version}'
+main: me.noahvdaa.makethemthink.makethemthink.MakeThemThink
+api-version: 1.18
+load: STARTUP
+authors: [ NoahvdAa ]
+description: MakeThemThink re-enables AI for all mobs on your server.
+website: https://github.com/NoahvdAa/MakeThemThink
