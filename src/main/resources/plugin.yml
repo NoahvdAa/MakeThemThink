@@ -1,6 +1,6 @@
 name: MakeThemThink
 version: '${version}'
-main: me.noahvdaa.makethemthink.makethemthink.MakeThemThink
+main: me.noahvdaa.makethemthink.MakeThemThink
 api-version: 1.18
 load: STARTUP
 authors: [ NoahvdAa ]
